@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PECORELLI DAVIDE GIOCO IMPICCATO", "PECORELLI DAVIDE GIOCO IMPICCATO\PECORELLI DAVIDE GIOCO IMPICCATO.csproj", "{1DA4468C-0B81-4DC6-B4A5-EB7DA1E7FEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA4468C-0B81-4DC6-B4A5-EB7DA1E7FEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA4468C-0B81-4DC6-B4A5-EB7DA1E7FEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA4468C-0B81-4DC6-B4A5-EB7DA1E7FEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA4468C-0B81-4DC6-B4A5-EB7DA1E7FEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8029B0EE-EF69-438C-8A9D-A77C024C3928}
+	EndGlobalSection
+EndGlobal
